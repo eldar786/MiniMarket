@@ -1,0 +1,66 @@
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form1.resources
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.Cache
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\bin\Debug\MiniMarket.pdb
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.exe
+c:\users\eldar bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.pdb
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csprojResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Login.resources
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.TestForm.resources
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form2.resources
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form3.resources
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form4.resources
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csprojFakesResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\fakes.args
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.fakesconfig
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.ah
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.ch
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.cs
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.csproj
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.fakes
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.fakesconfig
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.snk
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form8.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.exe
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csprojFakesResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\fakes.args
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.fakesconfig
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.ah
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.ch
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.cs
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.csproj
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.fakes
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.fakesconfig
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\f.snk
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csprojResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form8.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form1.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form2.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form3.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Login.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Form4.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.TestForm.resources
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.Cache
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\bin\Debug\MiniMarket.pdb
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eldar Bajrovic\Desktop\New folder\trunk\MiniMarket\MiniMarket\obj\Debug\MiniMarket.pdb

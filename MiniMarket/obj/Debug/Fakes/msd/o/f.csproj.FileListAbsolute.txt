@@ -1,0 +1,7 @@
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+C:\Users\Eldar Bajrovic\documents\visual studio 2013\Projects\MiniMarket\MiniMarket\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
